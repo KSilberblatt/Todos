@@ -2,7 +2,7 @@
   "name": "todos",
   "version": "1.0.0",
   "description": "a todo app",
-  "main": "entry.js",
+  "main": "todo_redux.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
